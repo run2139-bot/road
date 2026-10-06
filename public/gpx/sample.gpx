@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Busan Road Bike" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Busan Sample Route (Oncheoncheon - Suyeonggang)</name></metadata>
+  <trk>
+    <name>Sample Route</name>
+    <trkseg>
+      <trkpt lat="35.2058" lon="129.0785"><ele>18</ele></trkpt>
+      <trkpt lat="35.2000" lon="129.0900"><ele>14</ele></trkpt>
+      <trkpt lat="35.1930" lon="129.1000"><ele>11</ele></trkpt>
+      <trkpt lat="35.1850" lon="129.1100"><ele>8</ele></trkpt>
+      <trkpt lat="35.1760" lon="129.1250"><ele>6</ele></trkpt>
+      <trkpt lat="35.1700" lon="129.1400"><ele>4</ele></trkpt>
+      <trkpt lat="35.1650" lon="129.1550"><ele>3</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
